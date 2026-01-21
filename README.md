@@ -1,5 +1,5 @@
 # 💫 About Me:
-Я java android разработчик знаю java/python/c++
+Я java-android разработчик знаю java/python/c++
 
 
 # 💻 Tech Stack:
